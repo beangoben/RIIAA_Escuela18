@@ -21,6 +21,6 @@ Ciudad de México
 ## Que me llevo?
 
 1. Una laptop con Mozilla FIrefox o Google Chrome.
-2. [Python3 (anaconda)](https://www.anaconda.com/download/)
+2. [Python 3.6 (anaconda)](https://www.anaconda.com/download/)
 3. El github repo cloneado en algun lugar de tu computadora.
 4. Un ambiente python con varios paquetes instalados. Estos paquetes estas descritos dentro de `requirements.txt` o `environment.yml`.
