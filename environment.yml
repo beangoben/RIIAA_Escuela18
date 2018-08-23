@@ -15,8 +15,8 @@ dependencies:
   - jupyter
   - tensorflow>=1.9.0
   - tensorboard
+  - tensorflow-hub
   - keras
   - pytorch-cpu
   - torchvision-cpu
-  - tensorflow-hub
 
