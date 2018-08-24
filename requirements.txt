@@ -16,3 +16,4 @@ keras
 torch
 torchvision
 liveloss
+pydot
