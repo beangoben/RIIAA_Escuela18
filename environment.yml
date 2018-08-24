@@ -17,9 +17,9 @@ dependencies:
   - tensorboard
   - tensorflow-hub
   - keras
-  - pytorch-cpu
-  - torchvision-cpu
+  #- pytorch-cpu
+  #- torchvision-cpu
   - Graphviz
   - pip:
-          - liveloss
+          - livelossplot
           - pydot

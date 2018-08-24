@@ -13,7 +13,7 @@ tensorflow>=1.9.
 tensorboard
 tensorflow-hub
 keras
-torch
-torchvision
-liveloss
+#torch
+#torchvision
+livelossplot
 pydot
