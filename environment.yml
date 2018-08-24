@@ -19,4 +19,5 @@ dependencies:
   - keras
   - pytorch-cpu
   - torchvision-cpu
-
+  - pip:
+          - liveloss

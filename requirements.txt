@@ -13,5 +13,6 @@ tensorflow>=1.9.
 tensorboard
 tensorflow-hub
 keras
-pytorch-cpu
-torchvision-cpu
+torch
+torchvision
+liveloss
