@@ -1,3 +1,3 @@
 FROM jupyter/tensorflow-notebook
-ADD requirements.txt
-RUN pip install -r requirements.txt
+COPY requirements.txt /tmp/
+RUN pip install -r /tmp/requirements.txt

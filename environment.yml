@@ -19,6 +19,7 @@ dependencies:
   - keras
   - pytorch-cpu
   - torchvision-cpu
+  - Graphviz
   - pip:
           - liveloss
           - pydot
