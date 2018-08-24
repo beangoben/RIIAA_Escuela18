@@ -50,10 +50,10 @@ pip install -r requirements.txt
 ### Con Docker
 Puedes construir una imagen docker, es decir un ambiente virtual via el siguiente comando 
 ```
-docker build -t "riiaa18"
+docker build -t "riiaa18" .
 ```
 y luego para correr el ambiente docker en la carpeta favorita de tu eleccion usas el comando
 ```
-docker run -p 8888:8888 -v $(pwd):/home/jovyan/work riiaa18
+docker run -it --rm -p 8890:8888 -v $(pwd):/home/jovyan/work  riiaa18
 ```
 
